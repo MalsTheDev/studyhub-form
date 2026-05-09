@@ -74,7 +74,7 @@ export default function App() {
                       
                       <div className="flex items-center gap-4 text-slate-700">
                         <MapPin className="text-brand-600 w-5 h-5" />
-                        <Link to="https://maps.app.goo.gl/bWHaMEZQEs5Y3ATeA" className="font-semibold text-lg">Πλ. Ελευθερίας 3, Λαμία</Link>
+                        <a href="https://maps.app.goo.gl/bWHaMEZQEs5Y3ATeA" className="font-semibold text-lg">Πλ. Ελευθερίας 3, Λαμία</a>
                       </div>
                   </div>
 
