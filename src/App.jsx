@@ -38,8 +38,8 @@ export default function App() {
                     Στόχος έναρξης: Θερινή περίοδος (6 Ιουνίου)
                 </div>
                 
-                <h1 className="text-5xl md:text-7xl font-bold text-slate-900 mb-6 tracking-tight">
-                    StudyHub <span className="text-brand-600">Λαμίας</span>
+                <h1 className="text-4xl md:text-6xl font-bold text-slate-900 mb-6 tracking-widest uppercase">
+                    STUDY HUB <br /> <span className="text-brand-600">ΑΡΙΣΤΕΥΕΙΝ</span>
                 </h1>
 
                 <p className="text-xl md:text-2xl text-slate-500 mb-10 max-w-2xl mx-auto">
