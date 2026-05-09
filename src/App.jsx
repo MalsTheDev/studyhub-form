@@ -74,7 +74,7 @@ export default function App() {
                       
                       <div className="flex items-center gap-4 text-slate-700">
                         <MapPin className="text-brand-600 w-5 h-5" />
-                        <Link to="https://maps.app.goo.gl/bWHaMEZQEs5Y3ATeA" className="font-semibold text-lg">Πλ. Ελευθερίας 3, Λαμία</span>
+                        <Link to="https://maps.app.goo.gl/bWHaMEZQEs5Y3ATeA" className="font-semibold text-lg">Πλ. Ελευθερίας 3, Λαμία</Link>
                       </div>
                   </div>
 
@@ -203,7 +203,7 @@ export default function App() {
               </div>
               
               <div className="pt-8 border-t border-slate-100 text-slate-300 text-xs font-bold uppercase tracking-widest">
-                  © 2026 StudyHub Λαμίας.
+                  © 2026 STUDY HUB / ΑΡΙΣΤΕΥΕΙΝ Λαμίας.
               </div>
           </div>
       </footer>
