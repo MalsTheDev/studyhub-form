@@ -128,7 +128,6 @@ export default function App() {
               <div className="bg-white rounded-3xl p-8 md:p-12 border border-slate-200 shadow-xl">
                   <div className="text-center mb-10">
                       <h2 className="text-3xl md:text-4xl font-bold mb-4 text-slate-900">Θα διάβαζες στο κέντρο της Λαμίας;</h2>
-                      <p className="text-slate-500 font-medium">Πες μας τη γνώμη σου για το StudyHub</p>
                   </div>
 
                   <form action="https://api.web3forms.com/submit" method="POST" className="space-y-6">
